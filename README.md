@@ -7,7 +7,7 @@ Management Information System
 I've been learning about Data science or Data Engineer to switch careers. I started with Python and R, but have really found a passion for Data Engineer/Business Intelligence/Data Analyst.
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [pratipa\_auea@hotmail.com](mailto:pratipa_auea@hotmail.com)
+* ✉️  You can contact me at [mail](mailto:pratipa_auea@hotmail.com)
 
 ### Skills
 
